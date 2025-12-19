@@ -3,4 +3,4 @@
 Mapeador de baches
 
 
-<img src="logo_mapabaches.png" width="20%" />
+<img src="logo_mapabaches.png" width="50%" />
